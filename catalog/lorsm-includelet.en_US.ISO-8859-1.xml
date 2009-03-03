@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="lorsm-includelet" locale="en_US" charset="ISO-8859-1">
+
+  <msg key="admin_pretty_name">LORSM administration includelet</msg>
+  <msg key="Add_a_Course">Add a Course</msg>
+  <msg key="Learning_Materials">Learning Materials</msg>
+  <msg key="lt_LORS_Management_Admin">LORS Management Administration</msg>
+  <msg key="lt_Search_Learning_Objec">Search Learning Object Repository</msg>
+  <msg key="Manage_LORS">Manage LORS</msg>
+  <msg key="pretty_name">LORSM includelet</msg>
+
+</message_catalog>
