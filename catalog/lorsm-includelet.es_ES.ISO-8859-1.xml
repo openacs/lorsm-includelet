@@ -2,8 +2,10 @@
 <message_catalog package_key="lorsm-includelet" locale="es_ES" charset="ISO-8859-1">
 
   <msg key="Add_a_Course">Agregar un Curso</msg>
+  <msg key="admin_pretty_name">Includelet para la administración de LORSM</msg>
   <msg key="Learning_Materials">Materiales de Aprendizaje</msg>
   <msg key="lt_LORS_Management_Admin">Administración de LORS</msg>
   <msg key="lt_Search_Learning_Objec">Busqueda en el Repositorio de Objetos de Aprendizaje</msg>
   <msg key="Manage_LORS">Administrar LORS</msg>
+  <msg key="pretty_name">Includelet para LORSM</msg>
 </message_catalog>
